@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/HCwnYWnMgLZUW1BtP2.webp" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=silren93&label=Profile%20views&color=0e75b6&style=flat" alt="silren93" />
+  <img src="https://komarev.com/ghpvc/?username=silren93&label=Profile%20views&color=0e75b6&style=flat" alt="TrNhun128" />
 </p>
 
 - 😸 Currently, I am designing the frontend using ***HTML, Figma, Photoshop, AI***, and building UX/UI.
